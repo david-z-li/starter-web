@@ -11,7 +11,3 @@ Sample website with plenty of files for demos
 Deployment
 More changes
 Even more changes
-
-These changes will be staged
-
-These changes will not be staged
