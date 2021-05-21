@@ -21,3 +21,5 @@ These changes will be unstaged
 ### Copyright
 ...
 More changes
+
+Testing automatic merges
