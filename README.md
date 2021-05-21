@@ -17,3 +17,6 @@ This changes will be committed
 These changes will be staged
 
 These changes will be unstaged
+
+### Copyright
+...
